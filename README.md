@@ -2,6 +2,14 @@
 
 A responsive and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. The game allows two players to take turns marking X and O on a 3×3 grid, automatically detects winners, and provides a reset option to start a new game.
 
+<br>
+
+## Live Demo
+
+🔗 https://vaish9825.github.io/tic-tac-toe-game/
+
+<br>
+
 ## 🚀 Live Features
 
 - ✅ Two-player gameplay 
