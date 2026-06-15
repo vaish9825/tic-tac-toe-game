@@ -6,7 +6,7 @@ A responsive and interactive Tic Tac Toe game built using HTML, CSS, and JavaScr
 
 ## Live Demo
 
-🔗 https://vaish9825.github.io/tic-tac-toe-game/
+🔗 https://fun-tic-tac-toe-game.vercel.app/
 
 <br>
 
